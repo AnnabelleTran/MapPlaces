@@ -1,0 +1,37 @@
+[
+    {
+        "name": "West-MEC Central Campus",
+        "address": "6997 N Glen Harbor Blvd, Glendale, AZ 85307",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3325.6709250553095!2d-112.29502798479852!3d33.535940480749616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b4104080e38d9%3A0x1fbd2919e78fa444!2sWest-MEC%20Central%20Campus!5e0!3m2!1sen!2sus!4v1647894821239!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "West-MEC Northwest Campus",
+        "address": "13201 W Grand Ave, Surprise, AZ 85374",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26575.15170433018!2d-112.36217836044919!3d33.63399129999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b44a4c816e5af%3A0x61da180d51e2250b!2sWest-MEC%20Northwest%20Campus!5e0!3m2!1sen!2sus!4v1647894948302!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "West-MEC Southwest Campus",
+        "address": "500 N Verrado Way, Buckeye, AZ 85326",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26630.827272976778!2d-112.52272636044921!3d33.45312550000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b49e6fadf8ec9%3A0xea15410e8a26a30c!2sWest-MEC%20Southwest%20Campus!5e0!3m2!1sen!2sus!4v1647895001318!5m2!1sen!2sus"
+    },
+    
+    {
+        "name": "West-MEC Northeast Campus",
+        "address": "1617 W Williams Dr, Phoenix, AZ 85027",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26557.640895253597!2d-112.11206206044922!3d33.6906991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6f81f1c0ca5d%3A0xf115943748fc5b2b!2sWest-MEC%20(Northeast%20Campus)!5e0!3m2!1sen!2sus!4v1647895038166!5m2!1sen!2sus"
+    },
+
+    {
+        "name": "West-MEC",
+        "address": "5487 N 99th Ave, Glendale, AZ 85305",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26611.79040706489!2d-112.28930146044921!3d33.515065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b4042f08dfa89%3A0x1ee5090cabf66dd6!2sWest-MEC!5e0!3m2!1sen!2sus!4v1647895088585!5m2!1sen!2sus"
+    },
+    
+    {
+        "name": "Sunrise Mountain High School",
+        "address": "21200 N 83rd Ave, Peoria, AZ 85382",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3320.2215754673007!2d-112.24049308465086!3d33.67732638070967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b67f8867c9ceb%3A0x161d13fe76aa798a!2sSunrise%20Mountain%20High%20School!5e0!3m2!1sen!2sus!4v1647895176419!5m2!1sen!2sus"
+    }
+]
